@@ -1,8 +1,10 @@
 package com;
 
+import java.util.Arrays;
+
 public class LongSubstring {
 	public static void main(String[] args) {
-		System.out.println("hello world");
-		System.out.println("bye guys");
+		String []a= {"flower","flower","flower"};
+		System.out.println(Arrays.toString(a));
 	}
 }
